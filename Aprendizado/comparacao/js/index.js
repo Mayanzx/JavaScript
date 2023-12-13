@@ -4,7 +4,7 @@ console.log(`2 ${(10 >= 5)} ${(5 >= 5)}`); // maior ou igual que
 
 console.log(`3 ${(5 < 10)}`);  // menor que
 
-console.log(`4 ${(5 < 10)} ${(5 <= 5)}`);  // maior ou igual que
+console.log(`4 ${(5 < 10)} ${(5 <= 5)}`);  // menor ou igual que
 
 console.log(`5 ${(5 === 5)}`);  // igual que
 
