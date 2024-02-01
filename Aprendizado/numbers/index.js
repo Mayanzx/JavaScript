@@ -1,5 +1,5 @@
 let num1 = 10.4549124430;
-let num2 = 5;
+let num2 = 6;
 let num3 = 1;
 let num4 = 0.7 + 0.1;
 
