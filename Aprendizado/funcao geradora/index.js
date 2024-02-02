@@ -42,7 +42,7 @@ function* ger4(){
     yield*ger3();
     yield 3;
     yield 4;
-    yield 5;
+    yield 'fim';
 }
 
 const g4 = ger4();
